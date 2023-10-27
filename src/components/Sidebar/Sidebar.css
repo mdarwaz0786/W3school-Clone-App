@@ -1,0 +1,29 @@
+.sidebar {
+    position: fixed;
+    top: 110px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    background: #E7E9EB;
+    width: 17vw;
+    height: 82vh;
+    overflow-y: scroll;
+}
+
+.sidebar h2 {
+    margin-top: 10px;
+    margin-left: 15px;
+    font-weight: 600;
+}
+
+.sidebar p {
+    font-size: 18px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.sidebar p:hover {
+    background: #d6d8db;
+    margin-left: 0px;
+    padding-left: 15px;
+}

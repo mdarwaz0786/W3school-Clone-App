@@ -1,0 +1,118 @@
+.header {
+    position: fixed;
+    top: 0;
+    display: flex;
+    height: 60px;
+    width: 100%;
+    gap: 100px;
+    background: #fff;
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.header-left img {
+    width: 60px;
+    height: 50px;
+    padding: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.header-link {
+    color: black;
+    list-style: none;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.header-link:hover {
+    background: #dfdada;
+}
+
+.header-left input {
+    width: 150px;
+    height: 40px;
+    font-size: 16px;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 15px;
+    outline: none;
+}
+
+.header-left button {
+    border: none;
+    background: transparent;
+    margin-left: -55px;
+    cursor: pointer;
+    font-size: 25px;
+}
+
+
+.header-right {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.header-right li {
+    list-style: none;
+    cursor: pointer;
+}
+
+.header-right li svg {
+    margin-right: 8px;
+}
+
+.logsign-btn {
+    display: flex;
+}
+
+.signup-btn1 {
+    width: 100px;
+    height: 40px;
+    border: none;
+    background: #04AA6D;
+    color: white;
+    border-radius: 20px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-right: -30px;
+}
+
+.signup-btn1:hover {
+    background: #04aa6dc6;
+}
+
+.login-btn1 {
+    width: 110px;
+    height: 40px;
+    background: #04aa6d3a;
+    color: black;
+    border-radius: 20px;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.login-btn1:hover {
+    background: #04aa6d6a;
+}
+
+.profile-btn1 {
+    width: 120px;
+    height: 40px;
+    color: rgb(49, 20, 20);
+    border-radius: 20px;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.profile-btn1:hover {
+    background: #c6c3c3;
+}

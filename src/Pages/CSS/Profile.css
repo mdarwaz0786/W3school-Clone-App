@@ -1,0 +1,25 @@
+.profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.profile-name {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.profile-btn button {
+    margin-top: 20px;
+    height: 50px;
+    width: 100px;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    background: #04AA6D;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}

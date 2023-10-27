@@ -1,0 +1,311 @@
+{
+  "result": [
+    {
+      "id": 0,
+      "type": "HTML",
+      "heading": "HTML TUTORIAL",
+      "modules": [
+        "HTML HOME",
+        "HTML Introduction",
+        "HTML Editors",
+        "HTML Basics",
+        "HTML Elements",
+        "HTML Attributes",
+        "HTML Headings",
+        "HTML Paragraph",
+        "HTML Styles",
+        "HTML Formatting",
+        "HTML Quotations",
+        "HTML Comments",
+        "HTML Colors",
+        "HTML CSS",
+        "HTML Links",
+        "HTML Images",
+        "HTML Favicon",
+        "HTML Page Title",
+        "HTML Tables",
+        "HTML Lists",
+        "HTML Block & Inline",
+        "HTML Classes",
+        "HTML Id",
+        "HTML Iframes",
+        "HTML JavaScript",
+        "HTML File Path",
+        "HTML Head",
+        "HTML Layout",
+        "HTML Responsive",
+        "HTML Computercode",
+        "HTML Semantics",
+        "HTML Style Guide",
+        "HTML Entities",
+        "HTML Symbol",
+        "HTML Emojis",
+        "HTML Charset",
+        "HTML URL Encode"
+      ]
+    },
+    {
+      "id": 1,
+      "type": "CSS",
+      "heading": "CSS TUTORIAL",
+      "modules": [
+        "CSS HOME",
+        "CSS Introduction",
+        "CSS Syntax",
+        "CSS Selectors",
+        "CSS How To",
+        "CSS Comments",
+        "CSS Colors",
+        "CSS Backgrounds",
+        "CSS Borders",
+        "CSS Margins",
+        "CSS Padding",
+        "CSS Height/Width",
+        "CSS Box Model",
+        "CSS Outline",
+        "CSS Text",
+        "CSS Fonts",
+        "CSS Icons",
+        "CSS Links",
+        "CSS Lists",
+        "CSS Tables",
+        "CSS Display",
+        "CSS Max-width",
+        "CSS Position",
+        "CSS Z-index",
+        "CSS Overflow",
+        "CSS Float",
+        "CSS Inline-block",
+        "CSS Align",
+        "CSS Combinators",
+        "CSS Pseudo-class",
+        "CSS Pseudo-element",
+        "CSS Opacity",
+        "CSS Navigation Bar",
+        "CSS Dropdowns",
+        "CSS Image Gallery",
+        "CSS Image Sprites",
+        "CSS Attr Selectors",
+        "CSS Forms",
+        "CSS Counters",
+        "CSS Website Layout",
+        "CSS Units",
+        "CSS Specificity",
+        "CSS !important",
+        "CSS Math Functions"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "JAVASCRIPT",
+      "heading": "JS TUTORIAL",
+      "modules": [
+        "JS HOME",
+        "JS Introduction",
+        "JS Where To",
+        "JS Output",
+        "JS Statements",
+        "JS Syntax",
+        "JS Comments",
+        "JS Variables",
+        "JS Let",
+        "JS Const",
+        "JS Operators",
+        "JS Arithmetic",
+        "JS Assignment",
+        "JS Data Types",
+        "JS Functions",
+        "JS Objects",
+        "JS Events",
+        "JS Strings",
+        "JS String Methods",
+        "JS String Search",
+        "JS String Templates",
+        "JS Numbers",
+        "JS BigInt",
+        "JS Number Methods",
+        "JS Number Properties",
+        "JS Arrays",
+        "JS Array Methods",
+        "JS Array Sort",
+        "JS Array Iteration",
+        "JS Array Const",
+        "JS Dates",
+        "JS Date Formats",
+        "JS Date Get Methods",
+        "JS Date Set Methods",
+        "JS Math",
+        "JS Random",
+        "JS Booleans",
+        "JS Comparisons",
+        "JS If Else",
+        "JS Switch",
+        "JS Loop For",
+        "JS Loop For In",
+        "JS Loop For Of",
+        "JS Loop While",
+        "JS Break",
+        "JS Iterables",
+        "JS Sets",
+        "JS Maps",
+        "JS Typeof",
+        "JS Type Conversion",
+        "JS Bitwise",
+        "JS RegExp",
+        "JS Precedence",
+        "JS Errors",
+        "JS Scope",
+        "JS Hoisting",
+        "JS Strict Mode",
+        "JS this Keyword",
+        "JS Arrow Function",
+        "JS Classes",
+        "JS Modules",
+        "JS JSON",
+        "JS Debugging",
+        "JS Style Guide",
+        "JS Best Practices",
+        "JS Mistakes",
+        "JS Performance",
+        "JS Reserved Words"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "SQL"
+    },
+    {
+      "id": 4,
+      "type": "PYTHON"
+    },
+    {
+      "id": 5,
+      "type": "JAVA"
+    },
+    {
+      "id": 6,
+      "type": "PHP"
+    },
+    {
+      "id": 7,
+      "type": "HOW TO"
+    },
+    {
+      "id": 8,
+      "type": "W3.CSS"
+    },
+    {
+      "id": 9,
+      "type": "C"
+    },
+    {
+      "id": 10,
+      "type": "C++"
+    },
+    {
+      "id": 11,
+      "type": "C#"
+    },
+
+    {
+      "id": 12,
+      "type": "REACT"
+    },
+    {
+      "id": 13,
+      "type": "JAVASCRIPT"
+    },
+    {
+      "id": 14,
+      "type": "MYSQL"
+    },
+    {
+      "id": 15,
+      "type": "JQUERY"
+    },
+    {
+      "id": 16,
+      "type": "EXCEL"
+    },
+    {
+      "id": 17,
+      "type": "DJANGO"
+    },
+    {
+      "id": 18,
+      "type": "NODES"
+    },
+    {
+      "id": 19,
+      "type": "R"
+    },
+    {
+      "id": 20,
+      "type": "JAVASCRIPT"
+    },
+    {
+      "id": 21,
+      "type": "TYPESCRIPT"
+    },
+    {
+      "id": 22,
+      "type": "ANGULAR"
+    },
+    {
+      "id": 23,
+      "type": "GIT"
+    },
+    {
+      "id": 24,
+      "type": "POSTGRESQL"
+    },
+    {
+      "id": 25,
+      "type": "MONGODB"
+    },
+    {
+      "id": 26,
+      "type": "POSTGRESQL"
+    },
+    {
+      "id": 27,
+      "type": "ASP"
+    },
+    {
+      "id": 28,
+      "type": "AWS"
+    },
+    {
+      "id": 29,
+      "type": "AI"
+    },
+    {
+      "id": 30,
+      "type": "GO"
+    },
+    {
+      "id": 31,
+      "type": "KOTLIN"
+    },
+    {
+      "id": 32,
+      "type": "SASS"
+    },
+    {
+      "id": 33,
+      "type": "VUE"
+    },
+    {
+      "id": 34,
+      "type": "GEN AI"
+    },
+    {
+      "id": 35,
+      "type": "CYBERSECURITY"
+    },
+    {
+      "id": 36,
+      "type": "DATASCIENCE"
+    }
+  ]
+}
